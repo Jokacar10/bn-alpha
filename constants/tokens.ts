@@ -18,7 +18,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0x1d58e204ca59328007469a614522903d69dc0a4c',
-    name: `VERA`,
+    name: `Verasity`,
     symbol: 'VRA',
     decimals: 18,
   },
