@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0x1b379a79c91a540b2bcd612b4d713f31de1b80cc',
+    name: `Naoris Protocol`,
+    symbol: 'NAORIS',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0xf86089b30f30285d492b0527c37b9c2225bfcf8c',
     name: `PlaysOut`,
     symbol: 'PLAY',
