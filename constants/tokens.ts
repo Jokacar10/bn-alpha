@@ -4,7 +4,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0x1aecab957bad4c6e36dd29c3d3bb470c4c29768a',
-    name: `Baby Shark Universe `,
+    name: `Baby Shark Universe`,
     symbol: 'BSU',
     decimals: 18,
   },
