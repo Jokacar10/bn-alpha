@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0x96adaa33e175f4a7f20c099730bc78dd0b45745b',
+    name: `CherryAI`,
+    symbol: 'AIBOT',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x1f34c87ded863fe3a3cd76fac8ada9608137c8c3',
     name: `Overlay Protocol`,
     symbol: 'OVL',
