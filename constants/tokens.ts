@@ -1103,7 +1103,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0xd6b48ccf41a62eb3891e58d0f006b19b01d50cca',
-    name: `Seraph`,
+    name: `SERAPH`,
     symbol: 'SERAPH',
     decimals: 18,
   },
