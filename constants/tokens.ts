@@ -11,7 +11,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0x5d7909f951436d4e6974d841316057df3a622962',
-    name: `Goat Network`,
+    name: `GOAT Network`,
     symbol: 'GOATED',
     decimals: 18,
   },
