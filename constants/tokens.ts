@@ -52,13 +52,6 @@ const tokens: AlphaTokenInfo[] = [
   },
   {
     chainId: '56',
-    contractAddress: '0xa890f8ba60051ec8a5b528f056da362ba208a96f',
-    name: `GriffinAI`,
-    symbol: 'GAIN',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
     contractAddress: '0x76e9b54b49739837be8ad10c3687fc6b543de852',
     name: `Klink Finance`,
     symbol: 'KLINK',
@@ -194,6 +187,13 @@ const tokens: AlphaTokenInfo[] = [
     chainId: '56',
     contractAddress: '0xacf5a368ec5bb9e804c8ac0b508daa5a21c92e13',
     name: `Griffin AI`,
+    symbol: 'GAIN',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0xa890f8ba60051ec8a5b528f056da362ba208a96f',
+    name: `GriffinAI`,
     symbol: 'GAIN',
     decimals: 18,
   },
