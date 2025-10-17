@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0xfab99fcf605fd8f4593edb70a43ba56542777777',
+    name: `ZEROBASE`,
+    symbol: 'ZBT',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x9efdae4d959365349fcd7c7eae1f38ddcb25068c',
     name: `SubHub`,
     symbol: 'SUBHUB',
@@ -202,6 +209,13 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0x83330d159c9a4b09e6717feefef7a634b70d216a',
     name: `Multiple Network`,
     symbol: 'MTP',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0xd6b48ccf41a62eb3891e58d0f006b19b01d50cca',
+    name: `SERAPH`,
+    symbol: 'SERAPH',
     decimals: 18,
   },
   {
@@ -1308,13 +1322,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0x4bfaa776991e85e5f8b1255461cbbd216cfc714f',
     name: `Defi App`,
     symbol: 'HOME',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0xd6b48ccf41a62eb3891e58d0f006b19b01d50cca',
-    name: `SERAPH`,
-    symbol: 'SERAPH',
     decimals: 18,
   },
   {
