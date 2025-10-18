@@ -1474,7 +1474,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0xa0c56a8c0692bd10b3fa8f8ba79cf5332b7107f9',
-    name: `MERL`,
+    name: `Merlin Chain`,
     symbol: 'MERL',
     decimals: 18,
   },
