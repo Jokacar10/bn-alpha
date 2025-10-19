@@ -1558,7 +1558,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0xd82544bf0dfe8385ef8fa34d67e6e4940cc63e16',
-    name: `MYX`,
+    name: `MYX Finance`,
     symbol: 'MYX',
     decimals: 18,
   },
