@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0x783c3f003f172c6ac5ac700218a357d2d66ee2a2',
+    name: `BSquared Token`,
+    symbol: 'B2',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x9be61a38725b265bc3eb7bfdf17afdfc9d26c130',
     name: `APRO`,
     symbol: 'AT',
@@ -1630,13 +1637,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0x9a70815dfb644a24b57358e1041f8d0324c8f6e1',
     name: `BOOP`,
     symbol: 'BOOP',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0x783c3f003f172c6ac5ac700218a357d2d66ee2a2',
-    name: `BSquared Token`,
-    symbol: 'B2',
     decimals: 18,
   },
   {
