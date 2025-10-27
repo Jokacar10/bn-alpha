@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0x834baf4f7832cc3c00734ddb2e0c61c68d975822',
+    name: `Semantic Layer`,
+    symbol: '42',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0xd4058218632112de109846a2952be102d0330ab3',
     name: `SNAPX`,
     symbol: 'XNAP',
