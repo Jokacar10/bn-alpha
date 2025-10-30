@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0x3aee7602b612de36088f3ffed8c8f10e86ebf2bf',
+    name: `Lorenzo Governance Token`,
+    symbol: 'BANK',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0xae1e85c3665b70b682defd778e3dafdf09ed3b0f',
     name: `BitcoinOS`,
     symbol: 'BOS',
@@ -1721,13 +1728,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0x3dc8e2d80b6215a1bccae4d38715c3520581e77c',
     name: `Balance`,
     symbol: 'EPT',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0x3aee7602b612de36088f3ffed8c8f10e86ebf2bf',
-    name: `Lorenzo Governance Token`,
-    symbol: 'BANK',
     decimals: 18,
   },
   {
