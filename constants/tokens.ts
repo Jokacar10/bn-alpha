@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0xc2bd425a63800731e3ae42b6596bdd783299fcb1',
+    name: `Nubila Network`,
+    symbol: 'NB',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x3aee7602b612de36088f3ffed8c8f10e86ebf2bf',
     name: `Lorenzo Governance Token`,
     symbol: 'BANK',
