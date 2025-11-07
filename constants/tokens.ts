@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0x2a7e3392458307493c86388d5e544aad93286836',
+    name: `Aria Protocol`,
+    symbol: 'ARIAIP',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0xea17df5cf6d172224892b5477a16acb111182478',
     name: `elizaOS`,
     symbol: 'ELIZAOS',
