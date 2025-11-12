@@ -1306,7 +1306,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0x6bf62ca91e397b5a7d1d6bce97d9092065d7a510',
-    name: `Cross`,
+    name: `CROSS Protocol`,
     symbol: 'CROSS',
     decimals: 18,
   },
