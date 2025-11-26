@@ -1754,7 +1754,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721',
-    name: `SOON Token`,
+    name: `SOON`,
     symbol: 'SOON',
     decimals: 18,
   },
