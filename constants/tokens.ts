@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721',
+    name: `SOON`,
+    symbol: 'SOON',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0xf6402bec11bd945bbd46be77e1fa5d477883f6c2',
     name: `Port3 Network`,
     symbol: 'PORT3',
@@ -1756,13 +1763,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0xcef5b397051fc92026249670e918c0ad7b8585e4',
     name: `Orbiter Token`,
     symbol: 'OBT',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0xb9e1fd5a02d3a33b25a14d661414e6ed6954a721',
-    name: `SOON`,
-    symbol: 'SOON',
     decimals: 18,
   },
   {
