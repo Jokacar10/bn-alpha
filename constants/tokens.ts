@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0xe50e3d1a46070444f44df911359033f2937fcc13',
+    name: `Subsquid`,
+    symbol: 'SQD',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0xc12efb9e4a1a753e7f6523482c569793c2271dbb',
     name: `GaiAI Token`,
     symbol: 'GAIX',
@@ -1721,13 +1728,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0xdac991621fd8048d9f235324780abd6c3ad26421',
     name: `Zircuit`,
     symbol: 'ZRC',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0xe50e3d1a46070444f44df911359033f2937fcc13',
-    name: `Subsquid`,
-    symbol: 'SQD',
     decimals: 18,
   },
   {
