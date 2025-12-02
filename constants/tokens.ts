@@ -963,7 +963,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0xe747e54783ba3f77a8e5251a3cba19ebe9c0e197',
-    name: `TAKE`,
+    name: `OVERTAKE`,
     symbol: 'TAKE',
     decimals: 18,
   },
