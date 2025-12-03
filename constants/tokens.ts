@@ -1523,7 +1523,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0x44f161ae29361e332dea039dfa2f404e0bc5b5cc',
-    name: ` Humanity Protocol`,
+    name: `Humanity Protocol`,
     symbol: 'H',
     decimals: 18,
   },
