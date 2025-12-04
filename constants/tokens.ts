@@ -1334,7 +1334,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0xf39e4b21c84e737df08e2c3b32541d856f508e48',
-    name: `Yooldo Games`,
+    name: `Yooldo`,
     symbol: 'ESPORTS',
     decimals: 18,
   },
