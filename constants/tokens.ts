@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0x9dc44ae5be187eca9e2a67e33f27a4c91cea1223',
+    name: `Power Protocol`,
+    symbol: 'POWER',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0xf39e4b21c84e737df08e2c3b32541d856f508e48',
     name: `Yooldo`,
     symbol: 'ESPORTS',
