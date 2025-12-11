@@ -151,7 +151,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0x52b5fb4b0f6572b8c44d0251cc224513ac5eb7e7',
-    name: `BOB`,
+    name: `Build on Bitcoin`,
     symbol: 'BOB',
     decimals: 18,
   },
