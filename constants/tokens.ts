@@ -2328,7 +2328,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0xd06716e1ff2e492cc5034c2e81805562dd3b45fa',
-    name: `Magpie`,
+    name: `Magpie Token`,
     symbol: 'MGP',
     decimals: 18,
   },
