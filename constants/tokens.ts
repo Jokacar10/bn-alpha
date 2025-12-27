@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0x4b3d30992f003c8167699735f5ab2831b2a087d3',
+    name: `Collect on Fanable`,
+    symbol: 'COLLECT',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x8fd0d741e09a98e82256c63f25f90301ea71a83e',
     name: `SentismAI`,
     symbol: 'SENTIS',
