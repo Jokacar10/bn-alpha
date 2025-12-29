@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0xaafe1f781bc5e4d240c4b73f6748d76079678fa8',
+    name: `MetaArena`,
+    symbol: 'TIMI',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x4b3d30992f003c8167699735f5ab2831b2a087d3',
     name: `Collect on Fanable`,
     symbol: 'COLLECT',
@@ -314,13 +321,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0xea37a8de1de2d9d10772eeb569e28bfa5cb17707',
     name: `Janction`,
     symbol: 'JCT',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0xaafe1f781bc5e4d240c4b73f6748d76079678fa8',
-    name: `MetaArena`,
-    symbol: 'TIMI',
     decimals: 18,
   },
   {
