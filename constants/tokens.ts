@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0xdbb5cf12408a3ac17d668037ce289f9ea75439d7',
+    name: `WorldMobileToken`,
+    symbol: 'WMTX',
+    decimals: 6,
+  },
+  {
+    chainId: '56',
     contractAddress: '0xf74548802f4c700315f019fde17178b392ee4444',
     name: `memes will continue`,
     symbol: 'memes',
