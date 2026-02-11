@@ -66,6 +66,27 @@ const tokens: AlphaTokenInfo[] = [
   },
   {
     chainId: '56',
+    contractAddress: '0x8105743e8a19c915a604d7d9e7aa3a060a4c2c32',
+    name: `ULTILAND`,
+    symbol: 'ARTX',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x4c9027e10c5271efca82379d3123917ae3f2374e',
+    name: `Openverse Network`,
+    symbol: 'BTG',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x1b379a79c91a540b2bcd612b4d713f31de1b80cc',
+    name: `Naoris Protocol`,
+    symbol: 'NAORIS',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0xd955c9ba56fb1ab30e34766e252a97ccce3d31a6',
     name: `XPIN Network`,
     symbol: 'XPIN',
@@ -507,13 +528,6 @@ const tokens: AlphaTokenInfo[] = [
   },
   {
     chainId: '56',
-    contractAddress: '0x8105743e8a19c915a604d7d9e7aa3a060a4c2c32',
-    name: `ULTILAND`,
-    symbol: 'ARTX',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
     contractAddress: '0x52b5fb4b0f6572b8c44d0251cc224513ac5eb7e7',
     name: `Build on Bitcoin`,
     symbol: 'BOB',
@@ -916,13 +930,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0xaa036928c9c0df07d525b55ea8ee690bb5a628c1',
     name: `EVAA`,
     symbol: 'EVAA',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0x4c9027e10c5271efca82379d3123917ae3f2374e',
-    name: `Openverse Network`,
-    symbol: 'BTG',
     decimals: 18,
   },
   {
@@ -1539,13 +1546,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0x7cea5b9548a4b48cf9551813ef9e73de916e41e0',
     name: `MIA`,
     symbol: 'MIA',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0x1b379a79c91a540b2bcd612b4d713f31de1b80cc',
-    name: `Naoris Protocol`,
-    symbol: 'NAORIS',
     decimals: 18,
   },
   {
