@@ -31,6 +31,13 @@ const tokens: AlphaTokenInfo[] = [
   },
   {
     chainId: '56',
+    contractAddress: '0xea37a8de1de2d9d10772eeb569e28bfa5cb17707',
+    name: `Janction`,
+    symbol: 'JCT',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x6dc200b21894af4660b549b678ea8df22bf7cfac',
     name: `Warden Protocol`,
     symbol: 'WARD',
@@ -587,13 +594,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0xcce5f304fd043d6a4e8ccb5376a4a4fb583b98d5',
     name: `Allora`,
     symbol: 'ALLO',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0xea37a8de1de2d9d10772eeb569e28bfa5cb17707',
-    name: `Janction`,
-    symbol: 'JCT',
     decimals: 18,
   },
   {
