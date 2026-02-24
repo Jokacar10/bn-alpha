@@ -3,6 +3,41 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0xd7df5863a3e742f0c767768cdfcb63f09e0422f6',
+    name: `Meta Platforms (Ondo)`,
+    symbol: 'METAon',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x992879cd8ce0c312d98648875b5a8d6d042cbf34',
+    name: `Circle Internet Group (Ondo)`,
+    symbol: 'CRCLon',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x390a684ef9cade28a7ad0dfa61ab1eb3842618c4',
+    name: `Apple (Ondo)`,
+    symbol: 'AAPLon',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x091fc7778e6932d4009b087b191d1ee3bac5729a',
+    name: `Alphabet Class A (Ondo)`,
+    symbol: 'GOOGLon',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x4553cfe1c09f37f38b12dc509f676964e392f8fc',
+    name: `Amazon (Ondo)`,
+    symbol: 'AMZNon',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x8b194370825e37b33373e74a41009161808c1488',
     name: `Velvet`,
     symbol: 'VELVET',
