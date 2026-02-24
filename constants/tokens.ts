@@ -3,6 +3,34 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0x6a708ead771238919d85930b5a0f10454e1c331a',
+    name: `SPDR S&P 500 ETF (Ondo)`,
+    symbol: 'SPYon',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x0cde6936d305d5b34667fc46425e852efd73559a',
+    name: `Invesco QQQ (Ondo)`,
+    symbol: 'QQQon',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x2494b603319d4d9f9715c9f4496d9e0364b59d93',
+    name: `Tesla (Ondo)`,
+    symbol: 'TSLAon',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x6bfe75d1ad432050ea973c3a3dcd88f02e2444c3',
+    name: `Microsoft (Ondo)`,
+    symbol: 'MSFTon',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0xd7df5863a3e742f0c767768cdfcb63f09e0422f6',
     name: `Meta Platforms (Ondo)`,
     symbol: 'METAon',
@@ -48,6 +76,13 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0x4d6394bc3031f751edce368c189b0e060b527107',
     name: `Story`,
     symbol: 'IP',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0xa9ee28c80f960b889dfbd1902055218cba016f75',
+    name: `NVIDIA (Ondo)`,
+    symbol: 'NVDAon',
     decimals: 18,
   },
   {
