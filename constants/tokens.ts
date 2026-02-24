@@ -3,6 +3,13 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0xa5c8e1513b6a08334b479fe4d71f1253259469be',
+    name: `SUPERFORTUNE`,
+    symbol: 'GUA',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x6a708ead771238919d85930b5a0f10454e1c331a',
     name: `SPDR S&P 500 ETF (Ondo)`,
     symbol: 'SPYon',
@@ -545,13 +552,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0xc12efb9e4a1a753e7f6523482c569793c2271dbb',
     name: `GaiAI Token`,
     symbol: 'GAIX',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0xa5c8e1513b6a08334b479fe4d71f1253259469be',
-    name: `SUPERFORTUNE`,
-    symbol: 'GUA',
     decimals: 18,
   },
   {
