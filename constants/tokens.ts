@@ -3,6 +3,27 @@ import type { AlphaTokenInfo } from '@/types'
 const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
+    contractAddress: '0xeccbb861c0dda7efd964010085488b69317e4444',
+    name: `龙虾`,
+    symbol: '龙虾',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x3e17ee3b1895dd1a7cf993a89769c5e029584444',
+    name: `Freedom of Money`,
+    symbol: 'Freedom of Money',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x7ec43cf65f1663f820427c62a5780b8f2e25593a',
+    name: `LAB`,
+    symbol: 'LAB',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x7977bf3e7e0c954d12cdca3e013adaf57e0b06e0',
     name: `Opinion`,
     symbol: 'OPN',
@@ -1000,13 +1021,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0xfb93ee8152dd0a0e6f4b49c66c06d800cf1db72d',
     name: `Yield Basis`,
     symbol: 'YB',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0x7ec43cf65f1663f820427c62a5780b8f2e25593a',
-    name: `LAB`,
-    symbol: 'LAB',
     decimals: 18,
   },
   {
