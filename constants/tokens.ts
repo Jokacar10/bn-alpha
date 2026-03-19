@@ -52,6 +52,20 @@ const tokens: AlphaTokenInfo[] = [
   },
   {
     chainId: '56',
+    contractAddress: '0x61fac5f038515572d6f42d4bcb6b581642753d50',
+    name: `INFINIT`,
+    symbol: 'IN',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0xed9ae3def8d6f052971bb8b6d1975ff267cf9aad',
+    name: `Bluwhale`,
+    symbol: 'BLUAI',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x475cbf5919608e0c6af00e7bf87fab83bf3ef6e2',
     name: `Fabric Protocol`,
     symbol: 'ROBO',
@@ -969,13 +983,6 @@ const tokens: AlphaTokenInfo[] = [
   },
   {
     chainId: '56',
-    contractAddress: '0xed9ae3def8d6f052971bb8b6d1975ff267cf9aad',
-    name: `Bluwhale`,
-    symbol: 'BLUAI',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
     contractAddress: '0x85375d3e9c4a39350f1140280a8b0de6890a40e7',
     name: `SigmaDotMoney`,
     symbol: 'SIGMA',
@@ -1686,13 +1693,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0x0510101ec6c49d24ed911f0011e22a0d697ee776',
     name: `TaleX`,
     symbol: 'X',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0x61fac5f038515572d6f42d4bcb6b581642753d50',
-    name: `INFINIT`,
-    symbol: 'IN',
     decimals: 18,
   },
   {
