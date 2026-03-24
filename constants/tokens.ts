@@ -52,6 +52,20 @@ const tokens: AlphaTokenInfo[] = [
   },
   {
     chainId: '56',
+    contractAddress: '0x85375d3e9c4a39350f1140280a8b0de6890a40e7',
+    name: `SigmaDotMoney`,
+    symbol: 'SIGMA',
+    decimals: 18,
+  },
+  {
+    chainId: '56',
+    contractAddress: '0x53ec33cd4fa46b9eced9ca3f6db626c5ffcd55cc',
+    name: `DeAgentAI`,
+    symbol: 'AIA',
+    decimals: 9,
+  },
+  {
+    chainId: '56',
     contractAddress: '0x7977bf3e7e0c954d12cdca3e013adaf57e0b06e0',
     name: `Opinion`,
     symbol: 'OPN',
@@ -633,13 +647,6 @@ const tokens: AlphaTokenInfo[] = [
   },
   {
     chainId: '56',
-    contractAddress: '0x53ec33cd4fa46b9eced9ca3f6db626c5ffcd55cc',
-    name: `DeAgentAI`,
-    symbol: 'AIA',
-    decimals: 9,
-  },
-  {
-    chainId: '56',
     contractAddress: '0x97693439ea2f0ecdeb9135881e49f354656a911c',
     name: `RaveDAO`,
     symbol: 'RAVE',
@@ -979,13 +986,6 @@ const tokens: AlphaTokenInfo[] = [
     contractAddress: '0x66fd8de541c0594b4dccdfc13bf3a390e50d3afd',
     name: `Turtle`,
     symbol: 'TURTLE',
-    decimals: 18,
-  },
-  {
-    chainId: '56',
-    contractAddress: '0x85375d3e9c4a39350f1140280a8b0de6890a40e7',
-    name: `SigmaDotMoney`,
-    symbol: 'SIGMA',
     decimals: 18,
   },
   {
