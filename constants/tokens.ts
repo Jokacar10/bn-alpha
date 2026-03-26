@@ -1432,7 +1432,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0x9123400446a56176eb1b6be9ee5cf703e409f492',
-    name: `TRADOOR`,
+    name: `Tradoor`,
     symbol: 'TRADOOR',
     decimals: 18,
   },
