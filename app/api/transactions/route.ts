@@ -3,7 +3,7 @@ import { NextResponse } from 'next/server'
 import { formatEther, formatUnits, zeroAddress } from 'viem'
 import { BN_DEX_ROUTER_ADDRESS, USDT_ADDRESS } from '@/constants'
 import alphaTokens from '@/constants/tokens'
-import { getTransactions } from '@/lib/api'
+import { getTransactions } from '@/lib/nodereal-api'
 import { getSwapInfo, isAddressEqual, isValidSourceToken, retry } from '@/lib/utils'
 
 export async function GET(request: Request) {

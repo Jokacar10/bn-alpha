@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server'
-import { getBlockNumberByTimestamp } from '@/lib/api'
+import { getBlockNumberByTimestamp } from '@/lib/moralis-api'
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url)
