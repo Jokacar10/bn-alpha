@@ -2678,7 +2678,7 @@ const tokens: AlphaTokenInfo[] = [
   {
     chainId: '56',
     contractAddress: '0xdb6f1f098b55e36b036603c8e54663a8d907d6e1',
-    name: `BEE`,
+    name: `DAOBase`,
     symbol: 'BEE',
     decimals: 18,
   },
